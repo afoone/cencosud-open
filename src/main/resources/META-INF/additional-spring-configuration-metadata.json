@@ -1,0 +1,24 @@
+{
+    "properties": [
+  {
+    "name": "cencosud.api.url",
+    "type": "java.lang.String",
+    "description": "Base URL for the Cencosud API"
+  },
+  {
+    "name": "cencosud.api.key",
+    "type": "java.lang.String",
+    "description": "Cencosud API KEY"
+  },
+  {
+    "name": "cencosud.connection.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'cencosud.connection.timeout'"
+  },
+  {
+    "name": "cencosud.api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'cencosud.api.version'"
+  }
+]
+}
